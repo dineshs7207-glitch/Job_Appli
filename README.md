@@ -1,2 +1,2 @@
 # Job_Appli
-Job AI agentic 
+Job AI agentic course
